@@ -92,7 +92,7 @@ const refresh = () => refreshNuxtData() // leave this blank if your fetch has no
 
 .card-item-image{
   object-fit: contain;
-  /* width: 60%; */
+  width: 100%;
 
 }
 
